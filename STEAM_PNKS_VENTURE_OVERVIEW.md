@@ -1,8 +1,11 @@
 # STEAM PNKS — Venture Overview
 
-**Status:** WORKING  
-**Version:** 0.1  
-**Source:** Reconstructed from the referenced ChatGPT conversation, “STEAM PNKS Venture Overview”  
+**Status:** WORKING
+
+**Version:** 0.1
+
+**Source:** Reconstructed from the referenced ChatGPT conversation, “STEAM PNKS Venture Overview”
+
 **Last updated:** 2026-07-12
 
 ## Core Idea
@@ -122,4 +125,3 @@ The conversation also references an attached system template, but the attachment
 - the wording and structure are a fresh reconstruction, not a verbatim recovery of the missing canvas;
 - no features from the claimed System Summary have been treated as established;
 - the missing canvas and template should be imported later if authentic copies become available.
-
