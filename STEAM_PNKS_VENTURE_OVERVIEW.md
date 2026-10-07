@@ -1,12 +1,12 @@
 # STEAM PNKS — Venture Overview
 
-**Status:** WORKING
+**Status:** PRE-LAUNCH WORKING FOUNDATION
 
-**Version:** 0.1
+**Version:** 0.2
 
 **Source:** Reconstructed from the referenced ChatGPT conversation, “STEAM PNKS Venture Overview”
 
-**Last updated:** 2026-07-12
+**Last updated:** 2026-10-07
 
 ## Core Idea
 
@@ -62,6 +62,8 @@ Members gain rank and achievements in a system inspired by Scouts. Advancement i
 
 The rank and achievement system is a central opportunity for future development. Its names, levels, requirements, badges, rituals, and visible identity markers have not yet been defined in the available source material.
 
+The current working program blueprint proposes a deliberately small three-rank pilot—Spark, Builder, and Catalyst—to test the progression concept. These names and rules are recommendations, not recovered source material or finalized brand assets. See [docs/PROGRAM_BLUEPRINT.md](docs/PROGRAM_BLUEPRINT.md).
+
 ## Foundational Principles
 
 ### Make the World Better
@@ -97,11 +99,25 @@ The original concept names four ingredients but does not yet define their operat
 
 This table organizes the verified concept; it is not yet a finalized program architecture.
 
+## Current Launch Direction
+
+The recommended first operating test is a six-session, partner-hosted founding pilot using lower-risk tools and a small cohort. The planning hypothesis is ages 12–15 and 12–16 participants, subject to discovery, qualified staffing, the partner site, local requirements, and accessibility needs.
+
+The pilot is designed to test the complete experience—crew, missions, studio, and ranks—before any commitment to a permanent facility or elaborate achievement universe.
+
+This direction is documented in:
+
+- [Launch Readiness](docs/LAUNCH_READINESS.md)
+- [Program Blueprint](docs/PROGRAM_BLUEPRINT.md)
+- [Founding Pilot Playbook](docs/PILOT_PLAYBOOK.md)
+- [Safety and Safeguarding Framework](docs/SAFETY_FRAMEWORK.md)
+- [Research, Claims, and Decision Ledger](docs/RESEARCH_LEDGER.md)
+
 ## Open Development Areas
 
 The following remain intentionally **WORKING**:
 
-- target ages and membership cohorts
+- validated target ages and membership cohorts
 - rank ladder and advancement rules
 - badge or achievement taxonomy
 - program schedule and course pathways
@@ -114,6 +130,8 @@ The following remain intentionally **WORKING**:
 - brand identity, visual language, and member artifacts
 - measures of learning, belonging, innovation, artistry, and impact
 - whether **PNKS** should ever become an acronym
+
+Professional name clearance, launch geography, company structure, qualified safeguarding ownership, site compliance, insurance, and local demand remain unresolved launch gates. Nothing in this overview represents open enrollment or authorization to operate a youth program.
 
 ## Provenance and Recovery Note
 

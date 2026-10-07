@@ -1,0 +1,6 @@
+# Generated assessment and visual-QA artifacts stay local unless intentionally released.
+output/
+tmp/
+
+# Operating-system metadata
+.DS_Store
